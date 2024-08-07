@@ -1,0 +1,14 @@
+G:\BTK\Operators-app\bin\Debug\net8.0\Operators-app.exe
+G:\BTK\Operators-app\bin\Debug\net8.0\Operators-app.deps.json
+G:\BTK\Operators-app\bin\Debug\net8.0\Operators-app.runtimeconfig.json
+G:\BTK\Operators-app\bin\Debug\net8.0\Operators-app.dll
+G:\BTK\Operators-app\bin\Debug\net8.0\Operators-app.pdb
+G:\BTK\Operators-app\obj\Debug\net8.0\Operators-app.GeneratedMSBuildEditorConfig.editorconfig
+G:\BTK\Operators-app\obj\Debug\net8.0\Operators-app.AssemblyInfoInputs.cache
+G:\BTK\Operators-app\obj\Debug\net8.0\Operators-app.AssemblyInfo.cs
+G:\BTK\Operators-app\obj\Debug\net8.0\Operators-app.csproj.CoreCompileInputs.cache
+G:\BTK\Operators-app\obj\Debug\net8.0\Operators-app.dll
+G:\BTK\Operators-app\obj\Debug\net8.0\refint\Operators-app.dll
+G:\BTK\Operators-app\obj\Debug\net8.0\Operators-app.pdb
+G:\BTK\Operators-app\obj\Debug\net8.0\Operators-app.genruntimeconfig.cache
+G:\BTK\Operators-app\obj\Debug\net8.0\ref\Operators-app.dll
